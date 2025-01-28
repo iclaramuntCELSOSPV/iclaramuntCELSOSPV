@@ -1,9 +1,6 @@
 # Hi there! 👋
-I'm Iñaki, a software developer passionate about AI, robotics, and cool tech. 🚀  
 
-- 🔭 Currently working on: AI-powered tools for X  
-- 🌱 Learning: Deep learning frameworks like PyTorch and ONNX  
-- 🎯 Fun fact: I'm also into **[specific hobby here]**
+I am a passionate and dedicated professional committed to achieving exceptional results. I enjoy what I do and find inspiration in collaborating in diverse teams to achieve ambitious goals. Always looking for opportunities to learn and grow, I am open to new connections and exciting challenges.
 
 ## 🛠️ Tech & Tools I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
