@@ -12,7 +12,7 @@ I am a passionate and dedicated professional committed to achieving exceptional 
   ![badge](https://img.shields.io/github/stars/iclaramuntCELSOSPV/project-name?style=social)
 
 ## 📊 GitHub Stats
-[![Iñaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclaramuntCELSOSPV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Iñaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclaramuntCELSOSPV&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaramuntCELSOSPV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iclaramuntCELSOSPV&theme=tokyonight)](https://git.io/streak-stats)
